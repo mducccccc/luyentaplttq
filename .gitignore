@@ -1,0 +1,9 @@
+## Visual Studio / C# gitignore
+.vs/
+[Bb]in/
+[Oo]bj/
+*.user
+*.userprefs
+*.suo
+*.sln.docstates
+*.userosscache
